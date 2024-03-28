@@ -152,6 +152,8 @@ text_editor/theme/highlighting/comment_markers/warning_list = "BUG,DEPRECATED,FI
 text_editor/theme/highlighting/comment_markers/notice_list = "INFO,NOTE,NOTICE,TEST,TESTING"
 text_editor/help/sort_functions_alphabetically = true
 metadata/script_setup_templates_dictionary = {
-"CharacterBody2D": "0CharacterBody2DBasic Movement"
+"Camera2D": "0NodeDefault",
+"CharacterBody2D": "0CharacterBody2DBasic Movement",
+"Node": "0NodeDefault"
 }
-metadata/script_setup_use_script_templates = false
+metadata/script_setup_use_script_templates = true

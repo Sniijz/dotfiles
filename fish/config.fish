@@ -9,3 +9,4 @@ set --export PATH $BUN_INSTALL/bin $PATH
 
 # rust cargo package manager
 set -gx PATH $PATH /home/sniijz/.cargo/bin
+
