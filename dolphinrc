@@ -1,4 +1,13 @@
+MenuBar=Disabled
+
 [CompactMode]
+PreviewSize=32
+
+[ContentDisplay]
+DirectorySizeCount=false
+UsePermissionsFormat=CombinedFormat
+
+[DetailsMode]
 PreviewSize=32
 
 [General]
@@ -15,3 +24,6 @@ Places Icons Static Size=22
 [MainWindow]
 MenuBar=Disabled
 ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,comicbookthumbnail,kraorathumbnail,opendocumentthumbnail,directorythumbnail,ebookthumbnail,windowsexethumbnail,audiothumbnail,cursorthumbnail,fontthumbnail,djvuthumbnail,imagethumbnail,exrthumbnail,jpegthumbnail,windowsimagethumbnail,svgthumbnail
