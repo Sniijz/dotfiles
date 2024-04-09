@@ -10,3 +10,7 @@ set --export PATH $BUN_INSTALL/bin $PATH
 # rust cargo package manager
 set -gx PATH $PATH /home/sniijz/.cargo/bin
 
+# Aliases
+alias ll="exa -alh"
+alias tree="exa --tree"
+

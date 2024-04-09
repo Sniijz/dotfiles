@@ -1,31 +1,8 @@
-[gd_resource type="EditorSettings" load_steps=5 format=3]
-
-[sub_resource type="InputEventKey" id="InputEventKey_wfsdp"]
-command_or_control_autoremap = true
-keycode = 61
-unicode = 61
-
-[sub_resource type="InputEventKey" id="InputEventKey_3qmwi"]
-device = -1
-ctrl_pressed = true
-physical_keycode = 4194437
-unicode = 43
-
-[sub_resource type="InputEventKey" id="InputEventKey_wuad5"]
-command_or_control_autoremap = true
-keycode = 45
-unicode = 45
-
-[sub_resource type="InputEventKey" id="InputEventKey_pysjl"]
-device = -1
-ctrl_pressed = true
-physical_keycode = 4194435
-unicode = 45
+[gd_resource type="EditorSettings" format=3]
 
 [resource]
 interface/editor/editor_language = "en"
-interface/editor/display_scale = 2
-interface/editor/code_font_size = 20.0
+interface/editor/code_font_size = 16.0
 interface/editor/single_window_mode = true
 interface/theme/base_color = Color(0.21, 0.24, 0.29, 1)
 interface/theme/accent_color = Color(0.44, 0.73, 0.98, 1)
@@ -174,20 +151,12 @@ text_editor/theme/highlighting/comment_markers/critical_list = "ALERT,ATTENTION,
 text_editor/theme/highlighting/comment_markers/warning_list = "BUG,DEPRECATED,FIXME,HACK,TASK,TBD,TODO,WARNING"
 text_editor/theme/highlighting/comment_markers/notice_list = "INFO,NOTE,NOTICE,TEST,TESTING"
 text_editor/help/sort_functions_alphabetically = true
-shortcuts = [{
-"name": "script_editor/zoom_in",
-"shortcuts": [SubResource("InputEventKey_wfsdp"), SubResource("InputEventKey_3qmwi")]
-}, {
-"name": "script_editor/zoom_out",
-"shortcuts": [SubResource("InputEventKey_wuad5"), SubResource("InputEventKey_pysjl")]
-}]
 metadata/script_setup_templates_dictionary = {
 "Area2D": "0NodeDefault",
 "Camera2D": "0NodeDefault",
 "CanvasLayer": "0NodeDefault",
 "CharacterBody2D": "0NodeDefault",
 "Node": "0NodeDefault",
-"Node2D": "0NodeDefault",
-"RigidBody2D": "0NodeDefault"
+"Node2D": "0NodeDefault"
 }
 metadata/script_setup_use_script_templates = true
