@@ -168,6 +168,6 @@ symbol = ' '
 
 [cmd_duration]
 min_time = 1
-format = "[]($style)[[神](fg:color_fg0 bg:color_bg1)$duration](fg:color_fg0 bg:color_bg1)[ ]($style)"
+format = "[]($style)[[⚡](fg:color_fg0 bg:color_bg1)$duration](fg:color_fg0 bg:color_bg1)[ ]($style)"
 disabled = false
 style = "fg:color_bg1"
