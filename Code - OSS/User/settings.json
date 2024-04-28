@@ -17,4 +17,5 @@
     "security.workspace.trust.untrustedFiles": "open",
     "explorer.confirmDelete": false,
     "editor.fontFamily": "DroidSansM Nerd Font",
+    "git.confirmSync": false,
 }
