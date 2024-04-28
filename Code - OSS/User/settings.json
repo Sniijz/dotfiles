@@ -1,0 +1,19 @@
+{
+    "workbench.activityBar.visible": true,
+    "editor.mouseWheelZoom": true,
+    "diffEditor.renderSideBySide": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "git.autofetch": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#1da063ec",
+        "list.activeSelectionBackground": "#1da063ec",
+        "editor.selectionBackground": "#1da063ec",
+        "statusBar.noFolderBackground" : "#1da063ec",
+        "statusBar.debuggingBackground": "#1da063ec"    
+    },
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.executeInFileDir": true,
+    "git.enableSmartCommit": true,
+    "security.workspace.trust.untrustedFiles": "open",
+}
