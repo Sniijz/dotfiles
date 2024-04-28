@@ -16,4 +16,5 @@
     "python.terminal.executeInFileDir": true,
     "git.enableSmartCommit": true,
     "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
 }
