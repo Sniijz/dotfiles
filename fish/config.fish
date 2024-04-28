@@ -13,4 +13,5 @@ set -gx PATH $PATH /home/sniijz/.cargo/bin
 # Aliases
 alias ll="exa -alh"
 alias tree="exa --tree"
-
+alias vim="nvim"
+alias vi="nvim"

@@ -47,10 +47,16 @@ tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"wi
 [Tiling][6f921a12-f1c2-5afa-b781-62c5d7715f45]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.5014641288433382},{"layoutDirection":"vertical","tiles":[{"height":0.5},{"height":0.5}],"width":0.4985358711566613}]}
 
+[Tiling][773c8adb-29e9-5680-9023-2d9659255562]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
 [Tiling][80174221-49d6-5f45-8163-f8eef0485abe]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][83d35882-93b4-518b-9bfb-7e397f886406]
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][99e3674d-c5df-5e3d-b4e7-888b7a09649c]
 tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
 
 [Tiling][aacef61d-62b7-5e8f-a13d-0501886f38cb]
@@ -79,4 +85,4 @@ Scale=1
 
 [org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Utterly-Round-Dark-Solid
+theme=__aurorae__svg__Utterly-Round-Dark
