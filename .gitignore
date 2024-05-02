@@ -1,17 +1,18 @@
 /*
 !/.gitignore
-!/kitty
-!/hypr
+!/Code - OSS/User/settings.json
 !/dolphinrc
 !/fish
+!/guitarix/banks/
 !/godot
+!/hypr
 !/images
+!/kitty
+!/kwinrc
 !/neofetch
 !/nvim
 !/rofi
 !/starship.toml
 !/Thunar
-!/waybar
-!/kwinrc
 !/pacman
-!/Code - OSS/User/settings.json
+!/waybar
