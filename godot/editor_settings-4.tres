@@ -2,8 +2,7 @@
 
 [resource]
 interface/editor/editor_language = "en"
-interface/editor/display_scale = 1
-interface/editor/code_font_size = 14.6667
+interface/editor/code_font_size = 18.0
 interface/editor/single_window_mode = true
 interface/theme/base_color = Color(0.21, 0.24, 0.29, 1)
 interface/theme/accent_color = Color(0.44, 0.73, 0.98, 1)
