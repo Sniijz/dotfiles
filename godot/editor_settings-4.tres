@@ -2,7 +2,7 @@
 
 [resource]
 interface/editor/editor_language = "en"
-interface/editor/code_font_size = 18.0
+interface/editor/code_font_size = 16.0
 interface/editor/single_window_mode = true
 interface/theme/base_color = Color(0.21, 0.24, 0.29, 1)
 interface/theme/accent_color = Color(0.44, 0.73, 0.98, 1)
@@ -37,6 +37,7 @@ text_editor/theme/highlighting/mark_color = Color(1, 0.47, 0.42, 0.3)
 text_editor/theme/highlighting/breakpoint_color = Color(1, 0.47, 0.42, 1)
 text_editor/theme/highlighting/code_folding_color = Color(1, 1, 1, 0.27)
 text_editor/theme/highlighting/search_result_color = Color(1, 1, 1, 0.07)
+project_manager/default_renderer = "gl_compatibility"
 asset_library/available_urls = {
 "godotengine.org (Official)": "https://godotengine.org/asset-library/api"
 }
@@ -56,7 +57,7 @@ export/web/http_port = 8060
 export/web/use_tls = false
 export/web/tls_key = ""
 export/web/tls_certificate = ""
-export/windows/rcedit = ""
+export/windows/rcedit = "/home/sniijz/Documents/Windows/rcedit-x64.exe"
 export/windows/osslsigncode = ""
 export/windows/wine = ""
 interface/editor/save_on_focus_loss = false
@@ -154,11 +155,13 @@ text_editor/help/sort_functions_alphabetically = true
 export/android/java_sdk_path = ""
 network/language_server/poll_limit_usec = 100000
 metadata/script_setup_templates_dictionary = {
+"AnimatedSprite2D": "0NodeDefault",
 "Area2D": "0NodeDefault",
 "Camera2D": "0NodeDefault",
 "CanvasLayer": "0NodeDefault",
-"CharacterBody2D": "0NodeDefault",
+"CharacterBody2D": "0CharacterBody2DBasic Movement",
 "Node": "0NodeDefault",
 "Node2D": "0NodeDefault"
 }
 metadata/script_setup_use_script_templates = false
+metadata/export_template_download_directory = "/home/sniijz/.cache/godot"
