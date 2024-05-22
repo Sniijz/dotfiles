@@ -1,5 +1,6 @@
 /*
 !/.gitignore
+!/aseprite/aseprite.ini
 !/Code - OSS/User/settings.json
 !/dolphinrc
 !/fish

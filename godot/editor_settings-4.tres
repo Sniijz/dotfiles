@@ -161,7 +161,8 @@ metadata/script_setup_templates_dictionary = {
 "CanvasLayer": "0NodeDefault",
 "CharacterBody2D": "0CharacterBody2DBasic Movement",
 "Node": "0NodeDefault",
-"Node2D": "0NodeDefault"
+"Node2D": "0NodeDefault",
+"Resource": "0ObjectEmpty"
 }
 metadata/script_setup_use_script_templates = false
 metadata/export_template_download_directory = "/home/sniijz/.cache/godot"
