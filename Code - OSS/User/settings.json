@@ -18,4 +18,5 @@
     "explorer.confirmDelete": false,
     "editor.fontFamily": "DroidSansM Nerd Font",
     "git.confirmSync": false,
+    "redhat.telemetry.enabled": false,
 }
